@@ -1,0 +1,32 @@
+.form {
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+	margin:auto;
+	
+}
+
+.inputs {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.input{
+  margin-top: 20px;
+}
+
+.input label {
+  margin-right: 10px;
+}
+.input input {
+  border-radius: 12px;
+}
+.btn {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btn button {
+  border-radius: 12px;
+  background-color: burlywood;
+}
